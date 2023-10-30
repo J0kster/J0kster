@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J0kster
 - 👀 I’m interested in everything 
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on startups to learn and overcome difficulties with them
 - 📫 How to reach me irisicello@gmail.com
 
 <!---
